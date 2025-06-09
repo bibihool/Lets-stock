@@ -109,6 +109,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Email - [chinhoo0598@gmail.com]
 
-Project Link: [https://github.com/yourusername/stock-analysis-app](https://github.com/yourusername/stock-analysis-app)
+Project Link: [https://github.com/bibihool/Lets-stock]
